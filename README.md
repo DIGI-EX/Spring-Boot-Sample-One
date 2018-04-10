@@ -1,5 +1,21 @@
 # Spring Boot Sample One Project 
 
+
+1. Create account on GitHub.
+    
+2. Open https://github.com/krprashantjha/DigitalEx
+    
+3. First fork, then clone the URL
+    
+4. Import that URL in eclipse. Follow below project and make change.
+    
+5. Once change is completed. Then commit with proper message and push the project.
+    
+6. You will see that project in your local of GitHub site.
+    
+7. Place Pull Request and inform the owner of the repository.
+
+
 # Please Follow all steps carefully
 
 1.	Import the project and run maven install
